@@ -1,0 +1,10 @@
+/* Estilos personalizados para la aplicación */
+body {
+    padding-top: 50px;
+  }
+  
+  /* Estilos para las tareas completadas */
+  .tarea-completada {
+    background-color: #59ff80 !important;
+  }
+  
